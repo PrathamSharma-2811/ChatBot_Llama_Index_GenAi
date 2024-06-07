@@ -91,7 +91,9 @@ Llama3 is a pre-trained NLP model from HuggingFace used for generating intellige
 2. **Get Suggestions**: The chatbot provides suggestions for commonly asked questions based on user input.
 3. **Receive Email Notifications**: When a query is submitted, an email notification is sent to the specified recipient.
 
-## This project was built as a learning project during my internship period 
+# Disclaimer
+
+This project was built as a learning project during my internship period.I built this project from scratch.The chatbot and its functionalities are intended for educational purposes only. While efforts have been made to ensure the accuracy and reliability of the information provided by the chatbot, it should not be considered as an official source of information for Omaxe Pvt Ltd. For official information, please refer to the Omaxe website or contact the company directly. Use of this chatbot is at your own risk. The creators of this project are not responsible for any inaccuracies or issues that may arise from its use.
 
 ## Contact
 
