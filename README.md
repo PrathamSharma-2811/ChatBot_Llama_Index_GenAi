@@ -36,7 +36,7 @@ Follow these steps to set up and run the Omaxe Chatbot locally.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/omaxe-chatbot.git](https://github.com/PrathamSharma-2811/ChatBot_Llama_Index_GenAi.git
+git clone https://github.com/PrathamSharma-2811/ChatBot_Llama_Index_GenAi.git
 cd ChatBot_Llama_Index_GenAi
 ```
 
