@@ -23,10 +23,10 @@ import markdown
 import re
 
 # HF_HUB_CACHE
-huggingface_hub.login(token="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")
+huggingface_hub.login(token="Your_HF_Token")
 
 
-documents=SimpleDirectoryReader("data").load_data()
+documents=SimpleDirectoryReader("data").load_data() // change your directory where data is loacated
 app = Flask(__name__)
 
 # Load documents
