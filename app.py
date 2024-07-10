@@ -26,7 +26,7 @@ import re
 huggingface_hub.login(token="Your_HF_Token")
 
 
-documents=SimpleDirectoryReader("data").load_data() // change your directory where data is loacated
+documents=SimpleDirectoryReader("data").load_data() #change your directory where data is loacated
 app = Flask(__name__)
 
 # Load documents
