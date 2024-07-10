@@ -1,12 +1,12 @@
-# Omaxe Chatbot Project
+##Chatbot Project
 
 ## Overview
 
-This project aims to create an intelligent chatbot for Omaxe Pvt Ltd, a leading real estate company. The chatbot is designed to assist users by providing accurate and relevant information about Omaxe's properties, services, and other inquiries. It leverages advanced natural language processing (NLP) models to deliver smart, context-aware responses.
+This project aims to create an intelligent chatbot for a client, a leading real estate company. The chatbot is designed to assist users by providing accurate and relevant information about client's properties, services, and other inquiries. It leverages advanced natural language processing (NLP) models to deliver smart, context-aware responses.
 
 ## Features
 
-- Answers queries about Omaxe's commercial and residential properties.
+- Answers queries about client's commercial and residential properties.
 - Provides information about the company's owner, Rohtas Goel.
 - Handles variations in question phrasing to retrieve accurate answers.
 - Offers a user-friendly interface for engaging with the chatbot.
@@ -25,7 +25,7 @@ This project aims to create an intelligent chatbot for Omaxe Pvt Ltd, a leading 
 
 ## Setup Instructions
 
-Follow these steps to set up and run the Omaxe Chatbot locally.
+Follow these steps to set up and run the client Chatbot locally.
 
 ### Prerequisites
 
@@ -93,7 +93,7 @@ Llama3 is a pre-trained NLP model from HuggingFace used for generating intellige
 
 # Disclaimer
 
-This project was built as a learning project during my internship period.I built this project from scratch.The chatbot and its functionalities are intended for educational purposes only. While efforts have been made to ensure the accuracy and reliability of the information provided by the chatbot, it should not be considered as an official source of information for Omaxe Pvt Ltd. For official information, please refer to the Omaxe website or contact the company directly. Use of this chatbot is at your own risk. The creators of this project are not responsible for any inaccuracies or issues that may arise from its use.
+This project was built as a learning project during my internship period.I built this project from scratch.The chatbot and its functionalities are intended for educational purposes only. While efforts have been made to ensure the accuracy and reliability of the information provided by the chatbot, it should not be considered as an official source of information for client Pvt Ltd. For official information, please refer to the client website or contact the company directly. Use of this chatbot is at your own risk. The creators of this project are not responsible for any inaccuracies or issues that may arise from its use.
 
 ## Contact
 
